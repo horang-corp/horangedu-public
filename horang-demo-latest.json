@@ -1,11 +1,11 @@
 {
     "version": "1.0.0",
     "notes": "Release",
-    "pub_date": "2025-08-30T21:36:00+09:00",
+    "pub_date": "2025-08-31T23:55:00+09:00",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSV3RiRWpub1h5MDMyMjF3S2dJL2s0YnBlc0J3SG1EM20wLzJLNkoxUjFFYW55K2s5dFJyNnFpNzVlWlpCTldQZktrMkhWSXVJaVlDZjQxMUREVFMyTkpKS0NQM25mTFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM1Nzk4MDkzCWZpbGU6SW50ZWwgT3BlblZJTk8gQUkgRXhwZXJpZW5jZV8xLjAuN194NjQtc2V0dXAuZXhlCjVCVXhRUEJqdEU2WlRRbmowNFpTNk16dUhrWnVtcHdEU2w4ZVo1SlVnaFUzQmlvU3ZVaXJkY1IwdlJTKytwUjJJenIzcFFTM3dVNUFnU1Arb1N6bUJ3PT0K",
-        "url": "https://github.com/horang-corp/intel-openvino-demo-horangedu-public/releases/download/v1.0.7/Intel.OpenVINO.AI.Experience_1.0.7_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05aRkFCeWZHRWZHNmtFUy90bDl4d0ZnaXJkU2JrRmhWcFJ0VnRiMENJM3pQMUlia2dsVEMrWHlOOXpuUHlwTUVWTGhEUTZzZThpaExkM1RwVm1Jc1pXSDRpelZhM0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NjUxNzM0CWZpbGU67Zi4656RIC0gSW50ZWwgQUkgUEMgRGVtb18xLjAuMF94NjQtc2V0dXAuZXhlCmRtdlF4azZEU25nUjZJMndDMHRHT01XSzEyTkNMY1RMb3dJT0pWanU5azZUNHEvanlIVFNVUGJhenpReFJqQU1YWXJjY3ZoZTRMeElFeXJUemRjRkJnPT0K",
+        "url": "https://github.com/horang-corp/horangedu-public/releases/download/v1.0.0-intel-aipc-demo/horang-Intel.AI.PC.Demo_1.0.0_x64-setup.exe"
       }
     }
   }
