@@ -1,11 +1,11 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "notes": "Release",
-    "pub_date": "2025-09-07T20:17:00+09:00",
+    "pub_date": "2025-09-08T21:17:00+09:00",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05aRkFCeWZHRVFXcVNsOWEwS2wvTzhBdmk4VFdMODFQT0FodzFyVG56OG5kTDM0eEtnMWZRaFNWbWE0bWg2cnlpN3hhZGpzOU5uVjg5VHhDMjRvZFFyanNoUk1LWGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3MjQ3NzU5CWZpbGU67Zi4656RIC0gSW50ZWwgQUkgUEMgRGVtb18xLjAuMl94NjQtc2V0dXAuZXhlCjUxQTl6Nk1SYS9QYmtweXYyR0lrR3JiTUFKN20zVkRUMnUvLzFsQVlxbHgwcnlSU3Z5USt5UWV3aHc1VUkvY0U5MVNXQk91R3BseVVCWTloQy9Ic0JnPT0K",
-        "url": "https://github.com/horang-corp/horangedu-public/releases/download/v1.0.2-intel-aipc-demo/horang-Intel.AI.PC.Demo_1.0.2_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUR05aRkFCeWZHRVZEcjhKMngwOTBQellaSVlScWpoS3ZPbkFOaUk2blV6cFVVZlNDSFNMMWJGTkk0WFcyY24xbkpERHRBKzR6WTE3Wi9yYVMrMHJmMWc2Um41eDdmZWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU3MzM0ODk1CWZpbGU67Zi4656RIC0gQUkgUEMgRGVtb18xLjAuM194NjQtc2V0dXAuZXhlCiswWTNCNjBDSWtLRlNieTUzZGlXTjlFUGVMajJOWWNyQ2xVdDgwYlRPQlJNbWpJQ0JzbHRLOHNhck9KNjFMRHJ6RXZnQXVHRDA0a3BORkNqQlVSckN3PT0K",
+        "url": "https://github.com/horang-corp/horangedu-public/releases/download/v1.0.3-aipc-demo/horang-AI.PC.Demo_1.0.3_x64-setup.exe"
       }
     }
   }
